@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cricket Score Board</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_A">TEAM A</string>
+    <string name="category_B">TEAM B</string>
+</resources>
